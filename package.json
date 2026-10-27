@@ -1,0 +1,8 @@
+{
+  "name": "home-electrical-bootcamp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Concepts and safety course on household electrical systems, with a protection simulator. Not a wiring how-to. No build step.",
+  "scripts": { "test": "node tests/verify.js", "start": "python3 -m http.server 8082" },
+  "license": "MIT"
+}
